@@ -13,34 +13,35 @@
 
 ## Screens
 ### MyHome
-![main](https://github.com/nayoung16/portfolio/assets/102905115/76d7a37b-d468-4f88-9465-528cab53cb1c)
+![MyHome](https://github.com/user-attachments/assets/1963d6fa-55f0-44b6-985f-2c7abe2799d3)
 ### Login
-![login](https://github.com/nayoung16/portfolio/assets/102905115/c7da0dcd-fbe6-4c0e-aa7a-b330f9787d69)
+![login](https://github.com/user-attachments/assets/fde862e9-d55c-42c1-bfdf-235c0218ab5e)
 ### Edit Profile
-![edit_profile](https://github.com/nayoung16/portfolio/assets/102905115/b1ee0c1e-923f-433a-8c7a-74d99a1ad920)
+![edit profile](https://github.com/user-attachments/assets/82cd2a51-756e-4533-80b7-1be327f56183)
 ### Need Login
-![need_login](https://github.com/nayoung16/portfolio/assets/102905115/6f072a88-b3e9-405d-b8fa-535785dce9fb)
+![need login](https://github.com/user-attachments/assets/75136a4e-8422-4edd-bdad-9ebc64533247)
 ### Tutorial
-![tutorial](https://github.com/nayoung16/portfolio/assets/102905115/9c92d9ff-e724-49ed-b786-241533fcd9e4)
+![tutorial](https://github.com/user-attachments/assets/55b83e84-0925-4dfa-a529-0a7a493f2742)
 ### Resume
 #### Experience
-![resume_exp](https://github.com/nayoung16/portfolio/assets/102905115/ce5c20c6-6723-4564-8e0b-a6b27cbed96f)
+![experience](https://github.com/user-attachments/assets/7c23d07c-b894-4bec-850c-83f64d389197)
 #### Education
-![education](https://github.com/nayoung16/portfolio/assets/102905115/5081adb3-2f2d-4447-8f71-c827f32665f8)
+![education](https://github.com/user-attachments/assets/c8ec2f63-403e-4023-8197-f9d00df0a0d2)
 #### Skills & License
-![license_skills](https://github.com/nayoung16/portfolio/assets/102905115/e08ef214-5501-4cc1-acc2-399281e1f888)
+![skill license](https://github.com/user-attachments/assets/ba877a72-40be-490a-9ccd-123b25044485)
 ### Projects
-![project](https://github.com/nayoung16/portfolio/assets/102905115/994257ec-b9ca-4b13-b383-3ddbe6d5ef01)
-![project_2](https://github.com/nayoung16/portfolio/assets/102905115/2f2e1dd9-c118-4053-ad5d-0c021d8ec90c)
+![projects](https://github.com/user-attachments/assets/a0c9277c-9336-45b9-a995-53b0fd9534ad)
+![projects2](https://github.com/user-attachments/assets/604d6094-8f26-43b4-b055-3ea15f8462c3)
 ### Add & Edit Modals
 #### Add Modal
-![resume_exp_add](https://github.com/nayoung16/portfolio/assets/102905115/f7e80712-e554-42a4-9b4c-71dc3f6526b1)
+![add modal](https://github.com/user-attachments/assets/13d6b840-d9ab-46bc-a39a-5b1c90787ffb)
 #### Edit Modal
-![resume_exp_modify](https://github.com/nayoung16/portfolio/assets/102905115/83a7d76e-f6d5-4da8-9e67-da17dafc8096)
+![edit modal](https://github.com/user-attachments/assets/6735d651-75de-419f-b902-7bf2df2b15cf)
 #### Choose Add or Edit
-![image](https://github.com/nayoung16/portfolio/assets/102905115/180d1ec0-7605-4297-8e1e-1be6e78e3293)
+![choose edit or exit](https://github.com/user-attachments/assets/b7738f75-18d4-4f0a-894c-879212f2ed85)
 #### Add Skills
-![add_skill](https://github.com/nayoung16/portfolio/assets/102905115/48caaf90-1464-4b83-80ba-abda878670a0)
+![add skill](https://github.com/user-attachments/assets/b264a7a0-5515-4ce4-9ee7-801ad25a8e52)
 #### Delete Modal
-![skill_delete](https://github.com/nayoung16/portfolio/assets/102905115/f7bf42bf-36a1-4ce6-90ba-db0535c17419)
+![delete modal](https://github.com/user-attachments/assets/e6145ba7-538d-4cb2-a213-97c08ed7f854)
+
 
