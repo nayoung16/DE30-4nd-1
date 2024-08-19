@@ -1,15 +1,16 @@
 # TalentTree
 ## CI/CD Architecture
-![Untitled (3)](https://github.com/nayoung16/portfolio/assets/102905115/e4d3bce7-1820-4a19-a75b-1232cee3e0a0)
+![cicd](https://github.com/user-attachments/assets/a09bb5a3-62f6-4d7a-8b72-19523c3ae42d)
 ## Description
-![1](https://github.com/nayoung16/portfolio/assets/102905115/6fd86114-22de-4aa2-b9ff-f5b4744c7065)
-![2](https://github.com/nayoung16/portfolio/assets/102905115/299445f8-15b1-4f2a-a5e1-aa8cf5cea606)
-![3](https://github.com/nayoung16/portfolio/assets/102905115/9c65abe9-37c4-4dca-848a-ffd7c35b55c1)
-![파란색 일러스트 과제 프로젝트 발표 프레젠테이션](https://github.com/nayoung16/portfolio/assets/102905115/09d8c091-15ae-4b34-b143-ac29502cd525)
-![5](https://github.com/nayoung16/portfolio/assets/102905115/c913a9d2-ec96-4141-9e26-fa1d2068c24e)
-![6](https://github.com/nayoung16/portfolio/assets/102905115/f18a4667-75ce-44a5-9a9d-5c17dd7142cb)
-![7](https://github.com/nayoung16/portfolio/assets/102905115/04cfeafd-6591-4be4-a9c0-c725ff714dc5)
-![8](https://github.com/nayoung16/portfolio/assets/102905115/cf5c0533-6bd9-4d77-89f0-2dd7fb9fe2f5)
+![1](https://github.com/user-attachments/assets/72f42c99-009b-4cf9-997d-856f4c5c3546)
+![2](https://github.com/user-attachments/assets/b32ee9d6-a2ca-48e8-bc7a-c9c77b314895)
+![3](https://github.com/user-attachments/assets/1246e9bb-2039-453a-97b0-a1a7735ded21)
+![4](https://github.com/user-attachments/assets/43951151-8f42-4eb9-991e-1bd5e7b15d51)
+![5](https://github.com/user-attachments/assets/26c03442-c9b4-4734-a619-7fbad431cd0b)
+![6](https://github.com/user-attachments/assets/5e152f2f-0702-4fa5-b3d7-8011027d6dcb)
+![7](https://github.com/user-attachments/assets/9087cbca-3464-4e07-8508-20ebb9a53b2a)
+![8](https://github.com/user-attachments/assets/c380c146-5a31-48c0-8716-d0af09e58091)
+
 ## Screens
 ### MyHome
 ![main](https://github.com/nayoung16/portfolio/assets/102905115/76d7a37b-d468-4f88-9465-528cab53cb1c)
